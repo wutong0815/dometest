@@ -8,10 +8,7 @@ import static com.sun.management.HotSpotDiagnosticMXBean.ThreadDumpFormat.JSON;
 
 public class MQAdapter {
 
-    public static RebateInfo filter(String strJson, Map<String,String> link) throws NoSuchFieldException, IllegalAccessException, InvocationTargetException {
-        // 模拟解析
-        return filter(JSON.parseObject(strJson, RebateInfo.class),link);
-    }
+
 
 
     public static RebateInfo filter(Map obj, Map<String,String> link) throws NoSuchFieldException, IllegalAccessException, InvocationTargetException {
