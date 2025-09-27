@@ -1,4 +1,4 @@
-package org.example.demotest.designmodel.singlton.dome07;
+package org.example.demotest.designmodel.单例模式.dome07;
 
 public enum Singleton_7 {
 

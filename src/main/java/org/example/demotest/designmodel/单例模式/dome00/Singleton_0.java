@@ -1,4 +1,4 @@
-package org.example.demotest.designmodel.singlton.dome00;
+package org.example.demotest.designmodel.单例模式.dome00;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

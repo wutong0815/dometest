@@ -1,4 +1,4 @@
-package org.example.demotest.designmodel.singlton.dome06;
+package org.example.demotest.designmodel.单例模式.dome06;
 
 import java.util.concurrent.atomic.AtomicReference;
 

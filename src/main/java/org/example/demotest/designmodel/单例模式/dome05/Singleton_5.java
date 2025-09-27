@@ -1,4 +1,4 @@
-package org.example.demotest.designmodel.singlton.dome05;
+package org.example.demotest.designmodel.单例模式.dome05;
 
 public class Singleton_5 {
 
